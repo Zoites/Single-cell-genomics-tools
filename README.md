@@ -7,3 +7,7 @@ Monovar: https://bitbucket.org/hamimzafar/monovar
 
 SCcaller: https://github.com/biosinodx/SCcaller/
 
+Copy Number Variation
+
+Ginkgo: qb.cshl.edu/ginkgo
+
