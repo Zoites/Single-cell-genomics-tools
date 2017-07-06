@@ -1,4 +1,4 @@
-# Single-cell-genomics-tools
+# Single Cell Genomics Tools
 Tools used to analyse single-cell genomic data
 
 ## Variant Calling
