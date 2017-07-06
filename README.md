@@ -9,5 +9,5 @@ SCcaller: https://github.com/biosinodx/SCcaller/
 
 Copy Number Variation
 
-Ginkgo: qb.cshl.edu/ginkgo
+Ginkgo: https://github.com/robertaboukhalil/ginkgo
 
