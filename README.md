@@ -1,6 +1,10 @@
 # Single Cell Genomics Tools
 Tools used to analyse single-cell genomic data
 
+## Quality Control
+[PaSD-qc](https://github.com/parklab/PaSDqc)
+Evaluates the amplification properties and quality of single cell whole-genome sequencing data
+
 ## Variant Calling
 [Monovar](https://bitbucket.org/hamimzafar/monovar)
 
