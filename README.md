@@ -25,4 +25,4 @@ Evaluates the amplification properties and quality of single cell whole-genome s
 #### E-scape:
   [CellScape](https://bioconductor.org/packages/devel/bioc/vignettes/cellscape/inst/doc/cellscape_vignette.html)
 
-  [SiFit](https://bitbucket.org/hamimzafar/sifit)
+  [SiFit](https://bitbucket.org/hamimzafar/sifit) is a tool for reconstructing phylogenetic tree from noisy mutation profile of single cells
